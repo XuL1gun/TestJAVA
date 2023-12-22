@@ -29,7 +29,6 @@ public class OutputProblemsDisciplins implements OutputStudentList {
         Map<Discipline, Integer> disciplineIntegerMap = new HashMap<>();
 
         for (Student student : studentList) {
-            //Map<Discipline, Mark> disciplineMarkMap = student.getGradeBook();
             List<DisciplineWithRating> disciplineMarkList = student.getGradeBook();
             for (DisciplineWithRating disciplineWithRating : disciplineMarkList) {
 
