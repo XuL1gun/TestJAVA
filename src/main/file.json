@@ -1,0 +1,1382 @@
+{
+  "teachers": [
+    {
+      "surName": "Соколовский",
+      "name": "Евгений",
+      "lastName": "Дмитриевич",
+      "disciplineList": [
+        {
+          "name": "Математика",
+          "semester": 1
+        },
+        {
+          "name": "Математика",
+          "semester": 2
+        }
+      ]
+    },
+    {
+      "surName": "Никитин-Петров",
+      "name": "Максим",
+      "lastName": "Александрович",
+      "disciplineList": [
+        {
+          "name": "Информатика",
+          "semester": 1
+        },
+        {
+          "name": "Матлог",
+          "semester": 2
+        }
+      ]
+    },
+    {
+      "surName": "Григорьева",
+      "name": "Алина",
+      "lastName": "Ивановна",
+      "disciplineList": [
+        {
+          "name": "\"Английский язык\""
+,
+          "semester": 1
+        },
+        {
+          "name": "\"Английский язык\""
+,
+          "semester": 2
+        }
+      ]
+    },
+    {
+      "surName": "Морозова-Смирнова",
+      "name": "Ольга",
+      "lastName": "Владимировна",
+      "disciplineList": [
+        {
+          "name": "ООП",
+          "semester": 2
+        },
+        {
+          "name": "CИАОД",
+          "semester": 2
+        }
+      ]
+    },
+    {
+      "surName": "Васильков",
+      "name": "Даниил",
+      "lastName": "Петрович",
+      "disciplineList": [
+        {
+          "name": "Физика",
+          "semester": 1
+        },
+        {
+          "name": "История",
+          "semester": 1
+        }
+      ]
+    }
+  ],
+  "students": [
+    {
+      "surName": "Иванов",
+      "name": "Алексей",
+      "lastName": "Алексеевич",
+      "ratings": [
+        {
+          "discipline": {
+            "name": "Математика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "GOOD"
+            },
+            {
+              "ratingReference": "SATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Математика",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "GOOD"
+            },
+            {
+              "ratingReference": "SATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "\"Английский язык\""
+,
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "ABSENCE"
+            },
+            {
+              "ratingReference": "GOOD"
+            },
+            {
+              "ratingReference": "UNSATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "\"Английский язык\""
+,
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Информатика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "ABSENCE"
+            },
+            {
+              "ratingReference": "UNSATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Физика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "UNSATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "История",
+            "semester": 1
+          },
+          "markList": []
+        },
+        {
+          "discipline": {
+            "name": "Матлог",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "GOOD"
+            },
+            {
+              "ratingReference": "GOOD"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "ООП",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "ABSENCE"
+            },
+            {
+              "ratingReference": "ABSENCE"
+            },
+            {
+              "ratingReference": "GOOD"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "CИАОД",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "GREATE"
+            }
+          ]
+        }
+      ],
+      "gradeBook": [
+        {
+          "discipline": {
+            "name": "Математика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Математика",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "\"Английский язык\""
+,
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "ABSENCE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "\"Английский язык\""
+,
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "GOOD"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Информатика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "ABSENCE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Физика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "GOOD"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "История",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "ABSENCE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Матлог",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "GREATE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "ООП",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "CИАОД",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "surName": "Петрова",
+      "name": "Екатерина",
+      "lastName": "Евгеньевна",
+      "ratings": [
+        {
+          "discipline": {
+            "name": "Математика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            },
+            {
+              "ratingReference": "UNSATISFACTORY"
+            },
+            {
+              "ratingReference": "GOOD"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Математика",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "ABSENCE"
+            },
+            {
+              "ratingReference": "GOOD"
+            },
+            {
+              "ratingReference": "SATISFACTORY"
+            },
+            {
+              "ratingReference": "GOOD"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "\"Английский язык\""
+,
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "ABSENCE"
+            },
+            {
+              "ratingReference": "GOOD"
+            },
+            {
+              "ratingReference": "UNSATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "\"Английский язык\""
+,
+            "semester": 2
+          },
+          "markList": []
+        },
+        {
+          "discipline": {
+            "name": "Информатика",
+            "semester": 1
+          },
+          "markList": []
+        },
+        {
+          "discipline": {
+            "name": "Физика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "GREATE"
+            },
+            {
+              "ratingReference": "SATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "История",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            },
+            {
+              "ratingReference": "GREATE"
+            },
+            {
+              "ratingReference": "GOOD"
+            },
+            {
+              "ratingReference": "GOOD"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Матлог",
+            "semester": 2
+          },
+          "markList": []
+        },
+        {
+          "discipline": {
+            "name": "ООП",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            },
+            {
+              "ratingReference": "GREATE"
+            },
+            {
+              "ratingReference": "GOOD"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "CИАОД",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            }
+          ]
+        }
+      ],
+      "gradeBook": [
+        {
+          "discipline": {
+            "name": "Математика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "ABSENCE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Математика",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "\"Английский язык\""
+,
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "GOOD"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "\"Английский язык\""
+,
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "GREATE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Информатика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "UNSATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Физика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "История",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "GREATE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Матлог",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "GOOD"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "ООП",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "GREATE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "CИАОД",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "ABSENCE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "surName": "Смирнов",
+      "name": "Михаил",
+      "lastName": "Сергеевич",
+      "ratings": [
+        {
+          "discipline": {
+            "name": "Математика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "ABSENCE"
+            },
+            {
+              "ratingReference": "GOOD"
+            },
+            {
+              "ratingReference": "UNSATISFACTORY"
+            },
+            {
+              "ratingReference": "ABSENCE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Математика",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            },
+            {
+              "ratingReference": "GOOD"
+            },
+            {
+              "ratingReference": "SATISFACTORY"
+            },
+            {
+              "ratingReference": "UNSATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "\"Английский язык\""
+,
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            },
+            {
+              "ratingReference": "UNSATISFACTORY"
+            },
+            {
+              "ratingReference": "GREATE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "\"Английский язык\""
+,
+            "semester": 2
+          },
+          "markList": []
+        },
+        {
+          "discipline": {
+            "name": "Информатика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "ABSENCE"
+            },
+            {
+              "ratingReference": "ABSENCE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Физика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            },
+            {
+              "ratingReference": "ABSENCE"
+            },
+            {
+              "ratingReference": "UNSATISFACTORY"
+            },
+            {
+              "ratingReference": "GREATE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "История",
+            "semester": 1
+          },
+          "markList": []
+        },
+        {
+          "discipline": {
+            "name": "Матлог",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "UNSATISFACTORY"
+            },
+            {
+              "ratingReference": "ABSENCE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "ООП",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            },
+            {
+              "ratingReference": "ABSENCE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "CИАОД",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "GREATE"
+            },
+            {
+              "ratingReference": "GREATE"
+            },
+            {
+              "ratingReference": "GOOD"
+            },
+            {
+              "ratingReference": "UNSATISFACTORY"
+            }
+          ]
+        }
+      ],
+      "gradeBook": [
+        {
+          "discipline": {
+            "name": "Математика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "UNSATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Математика",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "UNSATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "\"Английский язык\""
+,
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "UNSATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "\"Английский язык\""
+,
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "UNSATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Информатика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "GOOD"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Физика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "UNSATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "История",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "UNSATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Матлог",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "GREATE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "ООП",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "ABSENCE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "CИАОД",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "ABSENCE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "surName": "Сидоров",
+      "name": "Николай",
+      "lastName": "Дмитриевич",
+      "ratings": [
+        {
+          "discipline": {
+            "name": "Математика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "GREATE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Математика",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "UNSATISFACTORY"
+            },
+            {
+              "ratingReference": "GREATE"
+            },
+            {
+              "ratingReference": "ABSENCE"
+            },
+            {
+              "ratingReference": "ABSENCE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "\"Английский язык\""
+,
+            "semester": 1
+          },
+          "markList": []
+        },
+        {
+          "discipline": {
+            "name": "\"Английский язык\""
+,
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "GOOD"
+            },
+            {
+              "ratingReference": "SATISFACTORY"
+            },
+            {
+              "ratingReference": "SATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Информатика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Физика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "GOOD"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "История",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            },
+            {
+              "ratingReference": "ABSENCE"
+            },
+            {
+              "ratingReference": "ABSENCE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Матлог",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            },
+            {
+              "ratingReference": "GOOD"
+            },
+            {
+              "ratingReference": "SATISFACTORY"
+            },
+            {
+              "ratingReference": "GREATE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "ООП",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "ABSENCE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "CИАОД",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "UNSATISFACTORY"
+            },
+            {
+              "ratingReference": "SATISFACTORY"
+            },
+            {
+              "ratingReference": "ABSENCE"
+            },
+            {
+              "ratingReference": "GOOD"
+            }
+          ]
+        }
+      ],
+      "gradeBook": [
+        {
+          "discipline": {
+            "name": "Математика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "GOOD"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Математика",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "\"Английский язык\""
+,
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "UNSATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "\"Английский язык\""
+,
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "GOOD"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Информатика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "ABSENCE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Физика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "GOOD"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "История",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "GREATE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Матлог",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "ABSENCE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "ООП",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "GOOD"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "CИАОД",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "GOOD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "surName": "Козлова",
+      "name": "Ольга",
+      "lastName": "Ивановна",
+      "ratings": [
+        {
+          "discipline": {
+            "name": "Математика",
+            "semester": 1
+          },
+          "markList": []
+        },
+        {
+          "discipline": {
+            "name": "Математика",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            },
+            {
+              "ratingReference": "ABSENCE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "\"Английский язык\""
+,
+            "semester": 1
+          },
+          "markList": []
+        },
+        {
+          "discipline": {
+            "name": "\"Английский язык\""
+,
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "UNSATISFACTORY"
+            },
+            {
+              "ratingReference": "ABSENCE"
+            },
+            {
+              "ratingReference": "GREATE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Информатика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "UNSATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Физика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            },
+            {
+              "ratingReference": "UNSATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "История",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "GOOD"
+            },
+            {
+              "ratingReference": "UNSATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Матлог",
+            "semester": 2
+          },
+          "markList": []
+        },
+        {
+          "discipline": {
+            "name": "ООП",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "ABSENCE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "CИАОД",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "ABSENCE"
+            },
+            {
+              "ratingReference": "GOOD"
+            },
+            {
+              "ratingReference": "GOOD"
+            }
+          ]
+        }
+      ],
+      "gradeBook": [
+        {
+          "discipline": {
+            "name": "Математика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "ABSENCE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Математика",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "\"Английский язык\""
+,
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "UNSATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "\"Английский язык\""
+,
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Информатика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "GREATE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Физика",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "GREATE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "История",
+            "semester": 1
+          },
+          "markList": [
+            {
+              "ratingReference": "GREATE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "Матлог",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "GOOD"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "ООП",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "ABSENCE"
+            }
+          ]
+        },
+        {
+          "discipline": {
+            "name": "CИАОД",
+            "semester": 2
+          },
+          "markList": [
+            {
+              "ratingReference": "SATISFACTORY"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
